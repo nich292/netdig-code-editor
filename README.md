@@ -55,4 +55,4 @@ For larger changes, please open an issue first to discuss what you would like to
 
 ## License
 
-This project is licensed under the **NetDig™ Software License Version 3.0**. See [LICENSE.txt](https://nich292.github.io/netdig-code-editor/LICENSE.txt) for more information.
+This project is licensed under the **NetDig™ Software License Version 4.0**. See [LICENSE.txt](https://nich292.github.io/netdig-code-editor/LICENSE.txt) for more information.
