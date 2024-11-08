@@ -10,7 +10,7 @@ NOTE THAT ONLY THE FULL LICENSE TEXT IS LEGALLY BINDING.
 FULL LICENSE TEXT:
 -------------------------
 NetDig™ Software License
-Version 3.0, 29 October 2024
+Version 4.0, 8 November 2024
 Copyright © 2024 NetDig™ Software License Authors. All rights reserved.
 
 This document is freely distributable but may not be modified. Provided ‘as is,’
