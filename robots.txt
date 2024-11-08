@@ -1,0 +1,24 @@
+User-agent: *
+Crawl-delay: 15
+Disallow: /netdig-code-editor/404.html
+Disallow: /netdig-code-editor/status.html
+Disallow: /netdig-code-editor/LICENSE.txt
+Disallow: /netdig-code-editor/Icon.png
+Disallow: /netdig-code-editor/Screenshot.png
+
+User-agent: Googlebot
+Crawl-delay: 10
+
+User-agent: Bingbot
+Crawl-delay: 5
+
+User-agent: Slurp
+Crawl-delay: 5
+
+User-agent: DuckDuckBot
+Crawl-delay: 10
+
+User-agent: Baiduspider
+Crawl-delay: 15
+
+Sitemap: https://nich292.github.io/netdig-code-editor/sitemap.xml
